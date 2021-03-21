@@ -3,6 +3,7 @@
   Not advocated to any specific feild (I will not force an algorithm on a solution just because I think its cool),
     being practical and value-oriented, I will prefere the simplest solution out there.
     If it's not availible, it would be great to make one up.
+  I am more than happy to share knowledge on probobalistic modeling (done a lot of stuff with Bayesian Networks) and NN.
     
 - 🌱 I’m currently learning more about NLP.
 
